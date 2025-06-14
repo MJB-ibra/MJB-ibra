@@ -14,7 +14,7 @@ am fullstack with modern languges a  about coding and building amazing projects.
 
 ## 🌐 Connect with Me
 
-- GitHub: [MJB-ibra](https://github.com/MJB-ibra)
+- GitHub: [mjb-ibra32](https://github.com/MJB-ibra)
 - Email: [manishimwejeanbatispte3205@gmail.com](mailto:manishimwejeanbatispte3205@gmail.com)
 
 ## 💻 About Me
